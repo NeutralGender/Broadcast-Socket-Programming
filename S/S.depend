@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1568367034 source:/root/Documents/CodeblocksProjects/S/S/main.cpp
+	"include/Server.h"
+
+1568354750 /root/Documents/CodeblocksProjects/S/S/include/Server.h
+	<iostream>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+	<vector>
+	<algorithm>
+
+1568366814 source:/root/Documents/CodeblocksProjects/S/S/src/Server.cpp
+	"/root/Documents/CodeblocksProjects/S/S/include/Server.h"
+

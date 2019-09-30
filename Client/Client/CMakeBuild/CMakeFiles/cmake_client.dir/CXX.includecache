@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Documents/CodeblocksProjects/S/Client/Client/include/Client.h
+iostream
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+string.h
+-
+unistd.h
+-
+
+/root/Documents/CodeblocksProjects/S/Client/Client/main.cpp
+include/Client.h
+/root/Documents/CodeblocksProjects/S/Client/Client/include/Client.h
+
+/root/Documents/CodeblocksProjects/S/Client/Client/src/Client.cpp
+/root/Documents/CodeblocksProjects/S/Client/Client/include/Client.h
+-
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1568354810 source:/root/Documents/CodeblocksProjects/S/Client/Client/main.cpp
+	"include/Client.h"
+
+1568353136 /root/Documents/CodeblocksProjects/S/Client/Client/include/Client.h
+	<iostream>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<string.h>
+	<unistd.h>
+
+1568369481 source:/root/Documents/CodeblocksProjects/S/Client/Client/src/Client.cpp
+	"/root/Documents/CodeblocksProjects/S/Client/Client/include/Client.h"
+
