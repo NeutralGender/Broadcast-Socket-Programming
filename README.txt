@@ -16,4 +16,4 @@ ALEX: MSG TO ALEX
 CMakeBuild contains CMAKE files
 
 С уважением,
-Шибаев Геннадий
+NeutralGender
